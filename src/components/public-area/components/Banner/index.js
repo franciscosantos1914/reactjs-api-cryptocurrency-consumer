@@ -5,7 +5,7 @@ import React from 'react';
 function Banner() {
 	return (
 		<>
-			<section class="section section-search">
+			<section class="section section-search mt-5">
 				<div class="container-fluid">
 					<div class="banner-wrapper">
 						<div class="banner-header text-center">

@@ -1,9 +1,9 @@
-import Pages from "./components/pages";
+import Admin from "./components/admin";
 
 function App() {
   return (
     <>
-      <Pages />
+      <Admin />
     </>
   );
 }
